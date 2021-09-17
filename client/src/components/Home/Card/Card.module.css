@@ -1,0 +1,26 @@
+.card {
+    border: 5px solid rgb(71, 70, 70);
+    border-radius: 35px;
+    display: row;
+    flex-flow: column wrap;
+    background-color: #b65757 ;
+    opacity: 0.9;
+    height: 375px;
+    width: 235px;
+  }
+
+  .card:hover {
+    opacity: 1;
+    background-color: #ac5252 ;
+    color:rgb(39, 39, 39);
+  }
+
+  .img{
+    width: 191px;
+    height: 170px;
+    border: 4px solid;
+    border-radius: 30px;
+    border-color: coral;
+    margin: 1px;
+    align-self: center;
+  }

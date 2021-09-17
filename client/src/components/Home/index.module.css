@@ -1,0 +1,46 @@
+
+
+.all {
+    background-color: rgb(233, 181, 133);
+}
+
+.searchbar {
+   height: 24px;
+   width: 1500px;
+   background-color: rgb(221, 170, 123);
+   display: inline-flex;
+   
+}
+
+.cards {
+    flex-direction: row-reverse;
+    color:rgb(76, 82, 92);
+    display: inline-block;
+    width: 24%;
+    margin: 30px auto;
+  }
+  
+.paginas {
+    background-color: rgb(221, 170, 123);
+  }
+
+.create {
+  margin-left: 100px;
+}
+
+.inputs {
+    background-color: rgb(197, 191, 191);
+  }
+
+.inputs:hover {
+    background-color: rgb(230, 227, 227);
+}
+
+.button {
+    background-color: rgb(163, 116, 15);
+    margin: 0 20px;
+}
+
+.button:hover {
+    background-color: rgb(199, 141, 48);
+}
